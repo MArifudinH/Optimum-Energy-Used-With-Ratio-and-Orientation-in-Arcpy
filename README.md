@@ -1,0 +1,1 @@
+# Optimum-Energy-Used-With-Ratio-and-Orientation-in-Arcpy
